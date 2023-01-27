@@ -1,5 +1,1 @@
-SELECT
-  strftime('%Y-%m-%d', submitted_date) as submitted_date,
-  strftime('%H:%M:%S', submitted_date) as submitted_hour
-FROM 
-  purchase_orders;
+SELECT COUNT(*) AS orders_count FROM orders WHERE employee_id IN (5, 6) AND shipper_id = 2;
