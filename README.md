@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Docker ToDo List!
+# Boas-vindas ao repositório do projeto All For One!
 
 <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
